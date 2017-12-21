@@ -70,10 +70,10 @@
 
 * **MaterialIo**. *Outils divers*. [[Lien direct](https://material.io/)].{Très jolie site plein d'inspiration avec des outils mis à diisposition}
 * **Code Cademy**. *Cours interactifs*. [[Lien direct](https://www.codecademy.com/fr)].{Tutoriels textuels et interactif avec la correction automatique du code en ligne.}
-* **AAA**. *a*. [[Lien direct]()].{NB}
-* **AAA**. *a*. [[Lien direct]()].{NB}
-* **AAA**. *a*. [[Lien direct]()].{NB}
-* **AAA**. *a*. [[Lien direct]()].{NB}
+* **iConfinder**. *Icones SVG*. [[Lien direct](https://www.iconfinder.com/)].{Collection d'image SVG}
+* **Bootstrap**. *Frameworks Front*. [[Lien direct](http://getbootstrap.com/)].{Frameworks HTML-CSS}
+* **Stat Counter**. *Datas visites*. [[Lien direct](http://statcounter.com/)].{Données sur les visiteurs d'une page web}
+
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
@@ -125,10 +125,20 @@
 * **S4me**. *Redimensionner des images facilement et rapidement sous Linux*. [[Lien direct](https://www.place4geek.com/blog/2012/11/redimensionner-des-images-facilement-et-rapidement-sous-linux/)].{Editer des image grace au termianl Linux}
 * **Delicious Insights**. *JavaScript n'a rien à voir avec Java : Petite histoire d'un markening malheureux*. [[Lien direct](https://delicious-insights.com/fr/articles/javascript-n-a-rien-a-voir-avec-java/)].{Ne pas confondre java et JavaScript}
 * **Collectif**. *MongoDB*. [[Lien direct](https://fr.wikipedia.org/wiki/MongoDB)].{Page Wikipedia Français de MongoDB}
+* **MDN**. *Mots réservés JavaScript*. [[Lien direct](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s)].{Mots Clefs JavaScript réservés}
+* **Collectif**. *Camel Case*. [[Lien direct](https://fr.wikipedia.org/wiki/Camel_case)].{Artricle Wikipedia Français Camel Case}
+* **MDN**. *Langues  Modifier  Avancé
+Utiliser les différents tests d'égalité*. [[Lien direct](https://developer.mozilla.org/fr/docs/Web/JavaScript/Les_diff%C3%A9rents_tests_d_%C3%A9galit%C3%A9)].{Na fameuse différence entre a == b et a ===b en JavaScript}
+* **Slack Team**. *Raccourcis clavier Slack*. [[Lien direct](https://get.slack.help/hc/fr-fr/articles/201374536-Raccourcis-clavier-Slack)].{Des raccourçis claviers sur slack}
+* **GitHub Team**. *Understanding the GitHub Flow*. [[Lien direct](https://guides.github.com/introduction/flow/)].{Commennt utiliser GitHub}
+* **GitHub Team**. *Collaborating with issues and pull requests*. [[Lien direct](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)].{Aide GitHub}
+* **Cutrell Jonathan**. *How to Collaborate On GitHub*. EnvatoTus+. [[Lien direct](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)].{Commnet collaborer sur GitHub}
+* **GitHub Team**. *Defining the mergeability of pull requests*. [[Lien direct](https://help.github.com/articles/defining-the-mergeability-of-pull-requests/)].{Informations sur les pull request sur GitHub}
+* **Collectif**. *Framework*. [[Lien direct](https://fr.wikipedia.org/wiki/Framework)].{Article Wikipedia Français sur les Frameworks}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
-* **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
+* **Nebra Mathieu**. *Qu'est-ce que le Responsive Web Design ?*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/qu-est-ce-que-le-responsive-web-design)] {Cours débutant sur le Responsive Wev Design}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
@@ -149,7 +159,7 @@
 * **Online HTML Editor**. *Editeur en ligne*. [[Lien direct](https://html-online.com/editor/)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
 * **CSSdesk**. *Editeur en ligne.* [[Lien direct](http://cssdeck.com/labs)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
 * **HTMLedit**. *Editeur en ligne*. [[Lien direct](http://htmledit.squarefree.com/)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
-
+* **BULK Resize**. *Imag Resize*. [[Lien direct](https://bulkresizephotos.com/)].{Retailler la taille d'une image}
 
 * **Google Fonts**. *Police d'écriture*. [[Lien direct](https://fonts.google.com/)].{Police pour CSS3 mises à disposition par google}
 * **Minecraft heure de Code tutoriels**. *Code pour enfant*. [[Lien direct](https://code.org/minecraft)].{Sinitier au code pour une heure}
@@ -171,6 +181,11 @@
 >-------------------------------------------------------------
 * **react**. *Interface Front*. Facebook.  [[Lien direct](https://github.com/facebook/react)]. {Amélioration générale de la réactivité de la partie Front des page Web.}
 * **intro-git-github**. *Démo de GitHub*. oc-courses.  [[Lien direct](https://github.com/oc-courses/intro-git-github)]. {Démonstration de GitHub par OpenClassrooms}
+* **intro-javascript**. *Eléments sur JavaScript*. oc-courses.  [[Lien direct](https://github.com/oc-courses/intro-javascript)]. {Code source associé au cours OpenClassrooms "Apprenez à coder avec JavaScript"}
+* **nwinkler**. *atom-keyboard-shortcuts*. [[Lien direct](https://github.com/nwinkler/atom-keyboard-shortcuts)].{Raccourçis claviers ATOM}
+
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
 
 ## Applications téléchargeables
 
