@@ -105,7 +105,7 @@
     - **Collectif**. *MarkDown*. Wikipedia Français. [[Lien direct](https://fr.wikipedia.org/wiki/Markdown)]. Wikipedia Anglais. {Page Wikipedia sur MarkDown}
     - **Collectif**. *MarkDown*. [[Lien direct](https://en.wikipedia.org/wiki/Markdown)]. {Page Wikipedia sur MarkDown}
 * **===== ===== JavaScript Back Off ===== =====**
-    **Nebra Mathieu**. *Des applications ultra-rapides avec Node.js*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js)] {Cours débutant sur NodeJs}
+    - **Nebra Mathieu**. *Des applications ultra-rapides avec Node.js*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js)] {Cours débutant sur NodeJs}
 
 
 * **Thinkful**. *A guide to using GitHub Page*. Iamvdo [[Lien direct](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)].{Un moyen facile d'apprendre à faire une page GitHub}
