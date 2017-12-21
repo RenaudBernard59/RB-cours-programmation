@@ -34,12 +34,15 @@
 
 **Auteur1NP, Auteur2NP**. *Titre de l'ouvrage*. *TOME+Sous-Titre de l'ouvrage*  Numéro-Edition. Editeur, Ville, Année-Edition (ISBN). (nombre de pages) [Lien papier Amazon|Fnac|Furet|...][Lien ebook Kindle|Audible|Kobo|Fnac]. {Remarques sur l'ouvrage}
 >-------------------------------------------------------------
-* **Chacon Scott**. *Pro Git*. Apress & Amazon Media EU, 2009 (ISBN : 1430218339). (290) [[Kindle](https://www.amazon.fr/Pro-Git-Scott-Chacon-ebook/dp/B004TTXLGI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=){Git is the version control system developed by Linus Torvalds for Linux kernel development. It took the open source world by storm since its inception in 2005, and is used by small development shops and giants like Google, Red Hat, and IBM, and of course many open source projects. | A book by Git experts to turn you into a Git expert | Introduces the world of distributed version control | Shows how to build a Git development workflow. ||What you’ll learn : Use Git as a programmer or a project leader | Become a fluent Git user | Use distributed features of Git to the full | Acquire the ability to insert Git in the development workflow | Migrate programming projects from other SCMs to Git | Learn how to extend Git || Who this book is for : This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.}
-* **Vincent Jean-Pierre, Verrecchia Jonathan, Irish Paul (Préface)**. *HTML5 : Dela page web à l'application*. 2nde Edition, Dunod, Paris 2012 (ISBN : 978-2-10-058218-1). (238 p.) [[Amazon](https://www.a.com)] [[Fnac](https://www.a.com)] [[Furet](https://www.a.com)] {Cf Description}
+* **Chacon Scott**. *Pro Git*. Apress & Amazon Media EU, 2009 (ISBN : 1430218339). (290) [[Kindle](https://www.amazon.fr/Pro-Git-Scott-Chacon-ebook/dp/B004TTXLGI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)]. {Git is the version control system developed by Linus Torvalds for Linux kernel development. It took the open source world by storm since its inception in 2005, and is used by small development shops and giants like Google, Red Hat, and IBM, and of course many open source projects. | A book by Git experts to turn you into a Git expert | Introduces the world of distributed version control | Shows how to build a Git development workflow. ||What you’ll learn : Use Git as a programmer or a project leader | Become a fluent Git user | Use distributed features of Git to the full | Acquire the ability to insert Git in the development workflow | Migrate programming projects from other SCMs to Git | Learn how to extend Git || Who this book is for : This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.}
+* **Vincent Jean-Pierre, Verrecchia Jonathan, Irish Paul (Préface)**. *HTML5 : Dela page web à l'application*. 2nde Edition, Dunod, Paris 2012 (ISBN : 978-2-10-058218-1). (238 p.) [[Amazon](https://www.a.com)] [[Fnac](https://www.a.com)] [[Furet](https://www.a.com)].  {Cf Description}
+
+
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
+
 
 ### Périodiques
 
@@ -53,16 +56,24 @@
 **Nom du site**. *Type de site*. [Lien direct]. {Remarques sur le site}
 >-------------------------------------------------------------
 * **SkillCode**. *Blog de cours*. [[Lien direct](https://skillcode.fr/)]. {Blog de la formation dev-web SIMPLON Roubaix. Ils y publissent quelques petits cours basiques en HTML, CSS et JavScript. Attention il est possible que le site soit reboot à la fin des inter-formations (durée des formation 6-9 mois)
-* * **OpenClassrooms (ex. SiteDuZero)**. *Cours en ligne*. [[Lien direct](https://openclassrooms.com) {Cours débutant et avancer en informatique et entreprenariat. Il y a une très grande diversité de cours textuelles et vidéo.}
+* **OpenClassrooms (ex. SiteDuZero)**. *Cours en ligne*. [[Lien direct](https://openclassrooms.com)]. {Cours débutant et avancer en informatique et entreprenariat. Il y a une très grande diversité de cours textuelles et vidéo.}
 *  **Grafikart**. *Cours en ligne*. [[Lien direct](https://www.grafikart.fr/)]
 [[Lien direct](https://openclassrooms.com/)]. {Cours en développement web : HTML, CSS, JavaScript, PHP, MySQL, Ruby, Algorithmique, GIT, Linux. Cours textuelles et vidéo.}
 * **HTML.net**. *Cours HTML, CSS, PHP* [[Lien direct](http://fr.html.net/)]. {Cours pour débutants. Site basique. Attention il est innaccessible si vous avez un bloqueur de pub.}
-* **NodeSchool**. *Des petits cours sur le dev-wen*. [[Lien direct](https://nodeschool.io/)].{Cours de web-dev disponible via nodeJs et accessible via le TERMINAL}
-* **Git SCM**. *Online Book sur Git*. [[Lien direct](https://git-scm.com/)].{Livre en ligne sur Git et GitHub. Disponible en Anblais et en Français. Possibilité de l'acheter sur Amazon Kindle ou en format Papier}
-* **MDN**. *Mozilla Developer  Network*. [[Lien direct](https://developer.mozilla.org/fr/)].{Référence Web by Mozilla ultra complet disponible en Anglais et Français}
-* **Word Wide Wev Consorsium**. *Référence officielle Web*. [[Lien direct](https://www.w3.org/)].{LA référence officielle du web. C'est cet organisme qui fixe les normes. Très technique pour ce qui est de la doc, des validateurs HTML, CSS... sont diponibles en ligne pour vérifier la validiter de son code.}
-* **Alsacréation**. *Association qui aide au web-dev*. [[Lien direct](https://www.alsacreations.com/)].{Association qui propose des cours, tutoriels et foriums d'aide en Web-Dev}
+* **NodeSchool**. *Des petits cours sur le dev-wen*. [[Lien direct](https://nodeschool.io/)]. {Cours de web-dev disponible via nodeJs et accessible via le TERMINAL}
+* **Git SCM**. *Online Book sur Git*. [[Lien direct](https://git-scm.com/)]. {Livre en ligne sur Git et GitHub. Disponible en Anblais et en Français. Possibilité de l'acheter sur Amazon Kindle ou en format Papier}
+* **MDN**. *Mozilla Developer  Network*. [[Lien direct](https://developer.mozilla.org/fr/)]. {Référence Web by Mozilla ultra complet disponible en Anglais et Français}
+* **Word Wide Wev Consorsium**. *Référence officielle Web*. [[Lien direct](https://www.w3.org/)]. {LA référence officielle du web. C'est cet organisme qui fixe les normes. Très technique pour ce qui est de la doc, des validateurs HTML, CSS... sont diponibles en ligne pour vérifier la validiter de son code.}
+* **Alsacréation**. *Association qui aide au web-dev*. [[Lien direct](https://www.alsacreations.com/)]. {Association qui propose des cours, tutoriels et foriums d'aide en Web-Dev}
 * **W3School**. *Cours Complet Web-Dev*. [[Lien direct](https://www.w3schools.com/)].{Gros site de référence en matière de cours en Web-Dev, notamment en Front. En Anglais par contre}
+
+
+* **MaterialIo**. *Outils divers*. [[Lien direct](https://material.io/)].{Très jolie site plein d'inspiration avec des outils mis à diisposition}
+* **Code Cademy**. *Cours interactifs*. [[Lien direct](https://www.codecademy.com/fr)].{Tutoriels textuels et interactif avec la correction automatique du code en ligne.}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
@@ -97,15 +108,26 @@
     **Nebra Mathieu**. *Des applications ultra-rapides avec Node.js*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js)] {Cours débutant sur NodeJs}
 
 
-
-* 
-* 
+* **Thinkful**. *A guide to using GitHub Page*. Iamvdo [[Lien direct](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)].{Un moyen facile d'apprendre à faire une page GitHub}
+* **De Oliveira Vincent**. *Utiliser les transitions CSS sur les dégradés*. [[Lien direct](https://iamvdo.me/blog/astuce-utiliser-les-transitions-css-sur-les-degrades)].{Article sur les dégradés en CSS3}
+* **HTML5 Doctor**. *HTML5 Element Flowchart : Sectioning contetn elements and friends*. [[Lien direct](http://www.html5doctor.com/downloads/h5d-sectioning-flowchart.png)].{Schéma pour le choix des balises HTML5}
+* **Raphael**. *Sublime Text : raccourcis et plugins*. [[Lien direct](https://blog.goetter.fr/2012/06/08/sublime-text-raccourcis-et-plugins/)].{Liste de raccourçis claviers et de quelques plug-ins sublime-text}
+* **Sanchez Clement**. *Sheat Sheets HTML5*. [[Lien direct](https://sanchez-clement.github.io/sheat-cheats-html5/)].{HTML5 aide mémoire des balises}
+* **Sanchez ClementA**. *Sheat Sheets CSS*. [[Lien direct](https://sanchez-clement.github.io/sheat-cheats-css/)].{CSS 3 aide mémoire des éléments de style}
+* **Raymond Eric S., (Traduction) Courbot Alexandre et Estibval Guillaume**. *Comment Poser Les Questions De Manière Intelligente*. [[Lien direct](http://www.linux-france.org/article/these/smart-questions/smart-questions-fr.html)].{NB}
+* **Meyers Jeremy**. *A brief history of the computer (B.C. - 1993A.D.)*. [[Lien direct](http://www.jeremymeyers.com/comp/)].{Une petite histoiore de l'informatique}
+* **Raymond Eric S., (Traducteur) Blondeel Sébastuien**. *La cathédrale et le bazar*. [[Lien direct](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html)].{Histoire romanesque de l'informatique et de linux}
+* **Tatin Bernard**. *Unix, Une introduction*. [[Lien direct](http://www.audeladelherbeseche.fr/unix/index.html)].{C'est quoi le système UNIX ? Cet article vous le racontreras}
+* **Harvey, Brian**. *What is a Hacker?*. [[Lien direct](https://people.eecs.berkeley.edu/~bh/hacker.html)].{Si vous voulez savoir c'est quoi un hackeur}
+* **Guillaume**. *Personnalisation de Vim : les bases*. Le Blog de Guillaume.[[Lien direct](https://www.guillaume-leduc.fr/personnalisation-vim-les-bases.html)].{Comment personnalise son éditeur de texte VIM}
+* **Dubreuil Julien**. *Linux - commandes fondamentales*. [[Lien direct](http://juliend.github.io/linux-cheatsheet/)].{Apprendre les commandes linux de façon muteki}
+* **Rtott**. *Vim Cheat Sheet*. [[Lien direct](https://vim.rtorr.com/)].{Aide mémoire VIM}
+* **S4me**. *Redimensionner des images facilement et rapidement sous Linux*. [[Lien direct](https://www.place4geek.com/blog/2012/11/redimensionner-des-images-facilement-et-rapidement-sous-linux/)].{Editer des image grace au termianl Linux}
+* **Delicious Insights**. *JavaScript n'a rien à voir avec Java : Petite histoire d'un markening malheureux*. [[Lien direct](https://delicious-insights.com/fr/articles/javascript-n-a-rien-a-voir-avec-java/)].{Ne pas confondre java et JavaScript}
+* **Collectif**. *MongoDB*. [[Lien direct](https://fr.wikipedia.org/wiki/MongoDB)].{Page Wikipedia Français de MongoDB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
-* **AAA**. *a*. [[Lien direct]()].{NB}
-* **AAA**. *a*. [[Lien direct]()].{NB}
-
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
@@ -120,21 +142,29 @@
 ### Applications Online
 **Nom du site/application web**. *Type d'application*. [Lien direct]. {Remarques sur l'application}
 >-------------------------------------------------------------
-* **Try Git**. *Tuto intéractif GitHib*. [[Lien direct](https://try.github.io/levels/1/challenges/1)].{Petite SandBox qui permet d'apprendre à utiliser Git et GitHub en ligne de commandes}
-* **BitBucket**. *Logiciel de versionning*. [[Lien direct](https://bitbucket.org/)].{Concurent à GitHub pour le versionning avec repos privés}
-* **Stack Overflow**. *Méga Forums de coding*. [[Lien direct](https://stackoverflow.com/)].{Forums d'aide en programmation. C'est une référence en ce domaine. Permet aussi le partage de code...}
-* **Code.org**. *La programmation accessible à tous*. [[Lien direct](https://code.org/)].{La référence pour apprendre la programmation aux enfants. C'est facile, ludique et en plus c'est gratuit.}
-* **Online HTML Editor**. *Editeur en ligne*. [[Lien direct](https://html-online.com/editor/)].{Editeur SandBox  HTML, CSS, Javascript en ligne}
-* **CSSdesk**. *Editeur en ligne. [[Lien direct](http://cssdeck.com/labs)].{Editeur SandBox  HTML, CSS, Javascript en ligne}
-* **HTMLedit**. *Editeur en ligne*. [[Lien direct](http://htmledit.squarefree.com/)].{Editeur SandBox  HTML, CSS, Javascript en ligne}
-* **a**. *a*. [[Lien direct](a)].{a}
-* **a**. *a*. [[Lien direct](a)].{a}
-* **a**. *a*. [[Lien direct](a)].{a}
-* **a**. *a*. [[Lien direct](a)].{a}
-* **a**. *a*. [[Lien direct](a)].{a}
+* **Try Git**. *Tuto intéractif GitHib*. [[Lien direct](https://try.github.io/levels/1/challenges/1)]. {Petite SandBox qui permet d'apprendre à utiliser Git et GitHub en ligne de commandes}
+* **BitBucket**. *Logiciel de versionning*. [[Lien direct](https://bitbucket.org/)]. {Concurent à GitHub pour le versionning avec repos privés}
+* **Stack Overflow**. *Méga Forums de coding*. [[Lien direct](https://stackoverflow.com/)]. {Forums d'aide en programmation. C'est une référence en ce domaine. Permet aussi le partage de code...}
+* **Code.org**. *La programmation accessible à tous*. [[Lien direct](https://code.org/)]. {La référence pour apprendre la programmation aux enfants. C'est facile, ludique et en plus c'est gratuit.}
+* **Online HTML Editor**. *Editeur en ligne*. [[Lien direct](https://html-online.com/editor/)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
+* **CSSdesk**. *Editeur en ligne.* [[Lien direct](http://cssdeck.com/labs)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
+* **HTMLedit**. *Editeur en ligne*. [[Lien direct](http://htmledit.squarefree.com/)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
 
 
-
+* **Google Fonts**. *Police d'écriture*. [[Lien direct](https://fonts.google.com/)].{Police pour CSS3 mises à disposition par google}
+* **Minecraft heure de Code tutoriels**. *Code pour enfant*. [[Lien direct](https://code.org/minecraft)].{Sinitier au code pour une heure}
+* **HTML5 Bot**. *Analyseur sémantique*. [[Lien direct](http://html5bot.webflow.io/the-html5-robot-fr)].{Choisir la sémantique d'une page web}
+* **Open VIM**. *Tuto interactif VIM*. [[Lien direct](http://www.openvim.com/)].{Apprendree à utiliser VIM depuis son navigateur}
+**JS Fiddle**. *Editeur en ligne*. [[Lien direct](https://jsfiddle.net/)]. {Editeur SandBox  HTML, CSS, Javascript en ligne}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
 
 ### Repository gitHub intéressants
 **Nom de l'application**. *Type d'application*. Propriétaire Repository [Lien direct]. {Remarques sur l'application}
@@ -148,8 +178,8 @@
 **Nom du site/application web**. *Type d'application*. (OS compatibles) [Lien direct]. {Remarques sur l'application}
 >-------------------------------------------------------------
 * **Linux Ubuntu le site Français**. *Système d'exploitation libre et gratuit basé sur UNIX*. {Un système d'exploitation de type UNIX basé sur GNU-Linux Debian. Très intéressant pour la programmation. Il y a pas mal de soft. gratuit spécial programmation en tout genre. Il y a le fameux TERMINAL UNIX qui permet de discuter directement avec un serveur sans passer par une interface graphique pas toujours bien optimisée. Et bien sur il n'y a pas de virus dessus}
-
-
+* **GNU Emacs**. *Editeur de texte*. (Windowq, MAC, Linux) [[Lien direct](https://www.gnu.org/software/emacs/)]. {Editeur de texte multiplateforme}
+**Emmet**. *Addon pour Editeur de texte*. (Software Cf. Description) [[Lien direct](https://emmet.io/)]. {Coder plus rapidement son Html | Sublime Text (cross-platform), Atom (cross-platform), Coda (OS X), Eclipse/Aptana (cross-platform), TextMate 2 (OS X), Espresso (OS X), Chocolat (OS X), Komodo Edit (cross-platform), Notepad++ (Windows), PSPad (Windows), textarea (browser based, cross-platform), CodeMirror (browser based, cross-platform), Brackets (cross-platform), NetBeans (cross-platform), Adobe Dreamweaver (Windows, OSX), JSFiddle (The Web Playground), JS Bin (A JavaScript, HTML and CSS playground), CodePen (A front-end playground), ICEcoder (Online IDE), Divshot (The Interface Builder for Web Apps), Codio (Web IDE for web development, teaching and learning), Codeanywhere (Multi-platform cloud editor), SourceLair (In-browser IDE for web technologies), Litmus (The code editor built to streamline email development workflow), Third-party support (The plugins for these editors are developed by third-party developers. May not support all Emmet features and actions), Visual Studio Code (cross-platform), SynWrite (Windows), WebStorm (cross-platform), PhpStorm (cross-platform), Vim (cross-platform), HTML-Kit (Windows), HippoEDIT (Windows), CodeLobster PHP Edition (Windows), TinyMCE (browser based, cross-platform), EverEdit (Windows), EditPlus (Windows), Emacs (cross-platform), WeBuilder (Windows).}
 
 ### Applications Smartphone
 **Nom du site/application web**. *Type d'application*. (OS compatibles) [Lien direct]. {Remarques sur l'application}
