@@ -17,6 +17,7 @@
     - Applications Smartphone
     - Addon et plugin navigateurs
 * How To follow
+    - Chaine youtube à suivre
     - Compte twitter à suivre
     - Page/groupe facebook à suivre
     - Compte Google+ à suivre
@@ -73,6 +74,9 @@
 
 
 ## How To follow
+
+### Chaine youtube à suivre
+**Nom, Prénom ou Pseudo**. *Pseudo-officel*. [Lien direct]. {Remarques sur le compte}
 
 ### Compte twitter à suivre
 **Nom, Prénom ou Pseudo**. *Pseudo-officel*. [Lien direct]. {Remarques sur le compte}
