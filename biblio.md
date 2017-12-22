@@ -37,12 +37,18 @@
 * **Chacon Scott**. *Pro Git*. Apress & Amazon Media EU, 2009 (ISBN : 1430218339). (290) [[Kindle](https://www.amazon.fr/Pro-Git-Scott-Chacon-ebook/dp/B004TTXLGI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)]. {Git is the version control system developed by Linus Torvalds for Linux kernel development. It took the open source world by storm since its inception in 2005, and is used by small development shops and giants like Google, Red Hat, and IBM, and of course many open source projects. | A book by Git experts to turn you into a Git expert | Introduces the world of distributed version control | Shows how to build a Git development workflow. ||What you’ll learn : Use Git as a programmer or a project leader | Become a fluent Git user | Use distributed features of Git to the full | Acquire the ability to insert Git in the development workflow | Migrate programming projects from other SCMs to Git | Learn how to extend Git || Who this book is for : This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.}
 * **Vincent Jean-Pierre, Verrecchia Jonathan, Irish Paul (Préface)**. *HTML5 : Dela page web à l'application*. 2nde Edition, Dunod, Paris 2012 (ISBN : 978-2-10-058218-1). (238 p.) [[Amazon](https://www.a.com)] [[Fnac](https://www.a.com)] [[Furet](https://www.a.com)].  {Cf Description}
 
-
+* **Hernert Patrice**. *Les algorithmes*.2nde édition Presses Universitaire de France, Paris, 1995. (2-13-053180-6) [][] {}
+* **Puiseux, Pierre**. *Programmation Le langage Python : Python 3 par la pratique avec exercices corrigés*. Coll. Technosup Ellipses, Paris, 2012. (978-2-7298-7230-4) [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
 * **A**. *a*. A, B, 2000. () [][] {}
-
+* **A**. *a*. A, B, 2000. () [][] {}
+* **A**. *a*. A, B, 2000. () [][] {}
+* **A**. *a*. A, B, 2000. () [][] {}
+* **A**. *a*. A, B, 2000. () [][] {}
+* **A**. *a*. A, B, 2000. () [][] {}
+* **A**. *a*. A, B, 2000. () [][] {}
 
 ### Périodiques
 
@@ -68,12 +74,54 @@
 * **W3School**. *Cours Complet Web-Dev*. [[Lien direct](https://www.w3schools.com/)].{Gros site de référence en matière de cours en Web-Dev, notamment en Front. En Anglais par contre}
 
 
-* **MaterialIo**. *Outils divers*. [[Lien direct](https://material.io/)].{Très jolie site plein d'inspiration avec des outils mis à diisposition}
+* **MaterialIo**. *Outils divers*. [[Lien direct](https://material.io/)].{Très jolie site plein d'inspiration avec des outils mis à disposition. Avec notament de infos sur les devices mobiles,...}
 * **Code Cademy**. *Cours interactifs*. [[Lien direct](https://www.codecademy.com/fr)].{Tutoriels textuels et interactif avec la correction automatique du code en ligne.}
 * **iConfinder**. *Icones SVG*. [[Lien direct](https://www.iconfinder.com/)].{Collection d'image SVG}
 * **Bootstrap**. *Frameworks Front*. [[Lien direct](http://getbootstrap.com/)].{Frameworks HTML-CSS}
 * **Stat Counter**. *Datas visites*. [[Lien direct](http://statcounter.com/)].{Données sur les visiteurs d'une page web}
+* **SneakPeekit**. *Télécharger Wireframe imprimables*. [[Lien direct](http://sneakpeekit.com/)].{Site pour télécharger des wireframes prêts à être imprimées}
+* **Campbell-Moore Owen**. *Reactive Web Design: The secret to building web apps that feel amazing*. [[Lien direct](https://medium.com/@owencm/reactive-web-design-the-secret-to-building-web-apps-that-feel-amazing-b5cbfe9b7c50)].{Créer un site web responsive et réactif}
+* **Normalise**. *CSS Reset*. [[Lien direct](http://necolas.github.io/normalize.css/)].{Une sorte de reset CSS en un peu mieux}
+* **Bower**. *Package Manager*. [[Lien direct](https://bower.io/)].{Un gestionnaire de packqges que j'ai pas encore tester}
+* **BootstrapCDN**. *Secure Content Delivery Network*. [[Lien direct](https://www.bootstrapcdn.com/)].{Templates tout fait avec Bootstrapes. Avec des thèmes-couleur différentes}
+* **Google Hosted Libraries**. *Librairies à Link*. [[Lien direct](https://developers.google.com/speed/libraries/)].{Librairies CSS, JavaSript... A linker pour économiser de la ressource sur son serveur}
+* **Bootstrap Editor and Builder**. *Personnalisation de Bootstrap*. [[Lien direct](https://www.bootply.com/)].{Personnaliser son Bootstrap}
+* **Bootsnipp**. *Template Bootstrap*. [[Lien direct](https://bootsnipp.com/)].{Template Bootstrap}
+* **Beautiful Buttons for Twitter Bootstrappers**. *Personnalisation de Bootstrap*. [[Lien direct](http://charliepark.org/bootstrap_buttons/)].{Personnalisation de Bootstrap}
+* **Glyphicon**. *Pack d'Icones*. [[Lien direct](https://glyphicons.com/)].{Pack d'Icones}
+* **Font Awesome**. *Polices d'écriture*.  [[Lien direct](http://fontawesome.io/)].{Polices d'écriture}
+* **HTML 5.3**. *L'évolution de HTML5*. [[Lien direct](http://w3c.github.io/html/)].{Draft documet du W3C}
+* **HTML
+* **Living Standard** *L'évolution de HTML5*. [[Lien direct](https://html.spec.whatwg.org/)].{Draft documet du WhatWG}
+* **HTML5 non-conforming features**. *a*. [[Lien direct](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features)].{Les balises à ne plus utiliser}
+* **HTML 5 Outliner**. *Sémantique Titres*. [[Lien direct](https://gsnedders.html5.org/outliner/)].{Regarder la sémantique des Titres}
+* **Date and Time on the Internet: Timestamps**. *Le Temps d'internet*. [[Lien direct](https://tools.ietf.org/html/rfc3339)].{Date et Temps sur Internet}
+* **AAA**. *The Current State of HTML5 Forms
+Browser support for the different features
+of HTML5 forms is quite varied. Let's explore.*. [[Lien direct](https://www.wufoo.com/html5/)].{NB}
+* **AAA**. *Librairie Js pour Formulaires Dépréciée*. [[Lien direct](https://github.com/ryanseddon/H5F)].{NB}
+* **AAA**. *Resource Description Framework (RDF)*. [[Lien direct](https://www.w3.org/RDF/)].{La sémantique du W3C}
+* **AAA**. *Les Microformats*. [[Lien direct](http://microformats.org/)].{NB}
+* **AAA**. *HTML Microdata*. [[Lien direct](https://www.w3.org/TR/microdata/)].{NB}
+* **AAA**. *Analyseur de Microdata*. [[Lien direct](https://foolip.org/microdatajs/live/)].{NB}
+* **AAA**. *Full Doc Schema.org*. [[Lien direct](http://schema.org/docs/full.html)].{NB}
+* **AAA**. *
+Introduction to Structured Data by Google*. [[Lien direct](https://developers.google.com/search/docs/guides/intro-structured-data?visit_id=1-636495459480773435-1817492111&rd=1)].{NB}
+* **AAA**. *Webmaster Central Blog by Google*. [[Lien direct](https://webmasters.googleblog.com/2015/01/new-structured-data-testing-tool.html)].{NB}
+* **AAA**. *Juicy Studio Accessibility Toolbar*. [[Lien direct](https://addons.mozilla.org/fr/firefox/addon/juicy-studio-accessibility-too/)].{NB}
+* **AAA**. *HTML5 shiv pour la compatibilité IE*. [[Lien direct]https://github.com/afarkas/html5shiv)].{NB}
+* **AAA**. *Screen Reader User Survey #3 Results*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct](https://webaim.org/projects/screenreadersurvey3/)].{NB}
+* **AAA**. *HTML5 outliner Gh group*. [[Lien direct](https://github.com/h5o/)].{NB}
+* **AAA**. *JAWS : The World's Most Popular Windows Screen Reader*. [[Lien direct](http://www.freedomscientific.com/Products/Blindness/JAWS)].{NB}
+* **AAA**. *Lecteur d'écran GW Micro*. [[Lien direct](http://www.gwmicro.com/)].{NB}
+* **AAA**. *Lecteur d'écran NVDA*. [[Lien direct](https://www.nvaccess.org/)].{NB}
 
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
@@ -135,12 +183,24 @@ Utiliser les différents tests d'égalité*. [[Lien direct](https://developer.mo
 * **Cutrell Jonathan**. *How to Collaborate On GitHub*. EnvatoTus+. [[Lien direct](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)].{Commnet collaborer sur GitHub}
 * **GitHub Team**. *Defining the mergeability of pull requests*. [[Lien direct](https://help.github.com/articles/defining-the-mergeability-of-pull-requests/)].{Informations sur les pull request sur GitHub}
 * **Collectif**. *Framework*. [[Lien direct](https://fr.wikipedia.org/wiki/Framework)].{Article Wikipedia Français sur les Frameworks}
+* **Anthony T**. *Finger-Friendly Design: Ideal Mobile Touchscreen Target Sizes*. [[Lien direct](https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/)].{Créer des sites-web/applications mobiles qui répondent au doigt et à l'oeil}
+* **Bootstrap Team**. *Bootstrap 4 Beta 2*. [[Lien direct](https://blog.getbootstrap.com/)].{Informations sur la Beta 2 de Bootstrap 4}
+* **Chapman Cameron**. *The Ultimate Guide To Bootstrap*. [[Lien direct](https://www.webdesignerdepot.com/2014/10/the-ultimate-guide-to-bootstrap/)].{Apprendre Bootstrap}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
+* **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **AAA**. *a*. [[Lien direct]()].{NB}
 * **Nebra Mathieu**. *Qu'est-ce que le Responsive Web Design ?*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/qu-est-ce-que-le-responsive-web-design)] {Cours débutant sur le Responsive Wev Design}
-* **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
-* **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
+* **Pesquet Baptiste**. *Apprenez à coder avec JavaScript*. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)] {Cours débutant sur JavaScript}
+* **Chavelli Maurice**. *Prenez en main Bootstrap *. OpenClassrooms. [[Lien direct](https://openclassrooms.com/courses/prenez-en-main-bootstrap/)] {Cours débutant sur Bootstrap}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
 * **a**. *a*. OpenClassrooms. [[Lien direct](t)] {Cours débutant sur a}
@@ -183,7 +243,10 @@ Utiliser les différents tests d'égalité*. [[Lien direct](https://developer.mo
 * **intro-git-github**. *Démo de GitHub*. oc-courses.  [[Lien direct](https://github.com/oc-courses/intro-git-github)]. {Démonstration de GitHub par OpenClassrooms}
 * **intro-javascript**. *Eléments sur JavaScript*. oc-courses.  [[Lien direct](https://github.com/oc-courses/intro-javascript)]. {Code source associé au cours OpenClassrooms "Apprenez à coder avec JavaScript"}
 * **nwinkler**. *atom-keyboard-shortcuts*. [[Lien direct](https://github.com/nwinkler/atom-keyboard-shortcuts)].{Raccourçis claviers ATOM}
-
+ler/atom-keyboard-shortcuts)].{Raccourçis claviers ATOM}
+* **bootstrap**. *Frameworks HTML-CSS*. twbs. [[Lien direct](https://github.com/twbs/bootstrap)].{Le fameux frameworks qu'il est innutile de présenter}
+* **a**. *a*. [[Lien direct](a)].{a}
+* **a**. *a*. [[Lien direct](a)].{a}
 * **a**. *a*. [[Lien direct](a)].{a}
 * **a**. *a*. [[Lien direct](a)].{a}
 
